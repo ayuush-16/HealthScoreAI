@@ -1,0 +1,6 @@
+Key Links for Your Repository:
+American Diabetes Association: https://diabetes.org/diabetes/a1c/diagnosis
+American Heart Association: https://www.heart.org/en/health-topics/cholesterol
+WHO Health Guidelines: https://www.who.int/health-topics/anaemia
+NIH Vitamin Guidelines: https://ods.od.nih.gov/
+Blood Pressure Guidelines: https://www.acc.org/latest-in-cardiology/articles/2017/11/08/11/47/mon-5pm-bp-guideline-aha-2017
