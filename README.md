@@ -26,7 +26,7 @@ Our project helps users analyze health data in a smarter, more holistic way. We 
 ---
 
 ## 🤖 Use of AI
-We want to be transparent that we took **some help from AI tools** (for example, in building parts of the frontend website).  
+We want to be transparent that we took **some help from AI tools** (for example, in building parts of the complex backened code of python and some part of the frontend website we use Chatgpt, for slides templates we use Gamma).  
 However:
 - **All the ideas are originally ours.**
 - AI helped us **improve and speed up development**, just like using any other modern tool.
