@@ -5,6 +5,7 @@ You can run HealthScoreAI on your local machine easily.
 ---
 
 ## Steps
+**Fisrt See our requirement.txt**
 
 1. **Open our app.py and index.html in same folder** in any IDE (VS Code, PyCharm, etc.).
 
