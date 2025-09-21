@@ -1,5 +1,0 @@
-Open your project folder in any code editor (like VS Code or PyCharm).
-
-Open a terminal inside the project folder.
-
-Run the app by typing: python app.py and press Enter.
