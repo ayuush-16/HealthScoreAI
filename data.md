@@ -1,7 +1,8 @@
 # Medical Knowledge Base and Data Sources
 
 ## Overview
-HelpScopeAI uses a rule-based expert system approach based on established medical guidelines and clinical standards. No machine learning training data is used.
+HelpScopeAI uses a rule-based expert system approach based on established medical guidelines and clinical standards.No Machine Learning Data Dependency – Instead of relying on uncertain training data, our system is powered by a robust rule-based engine, ensuring higher reliability and transparency. All knowledge and guidelines are sourced directly from trusted authorities like the WHO (World Health Organization)
+
 
 ## Clinical Reference Standards
 
